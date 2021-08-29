@@ -4,7 +4,7 @@ import "./index.scss";
 
 import "macro-css";
 
-import App from "./App";
+import App from "./App.jsx";
 
 ReactDOM.render(
   <React.StrictMode>
