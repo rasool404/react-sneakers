@@ -1,8 +1,0 @@
-{
-  // Тип курсора
-  "editor.cursorStyle": "line",
-  // Тип анимации курсора
-  "editor.cursorBlinking": "phase",
-  // Плавная анимация
-  "editor.cursorSmoothCaretAnimation": true
-}
